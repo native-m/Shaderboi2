@@ -1,0 +1,5 @@
+deps/sdl/lib
+deps/sdl/include
+deps/imgui/
+!deps/**/README.md
+
