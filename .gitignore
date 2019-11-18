@@ -1,5 +1,12 @@
-deps/sdl/lib
-deps/sdl/include
-deps/imgui/
+*.dll
+deps/freetype/include/**/*.h
+deps/freetype/lib/**/*.dll
+deps/freetype/lib/**/*.lib
+deps/sdl/include/*
+deps/sdl/**/*.dll
+deps/sdl/**/*.lib
+deps/imgui/examples
+build/
+bin/
 !deps/**/README.md
 
